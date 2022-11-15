@@ -7,7 +7,7 @@ git clone https://github.com/nigamreetesh84/voice-email.git
 cd voice-email
 
 Run following command to setup development environment 
-`
+```
 python -m venv <YOUR_ENV> --system-site-packages
 
 source <YOUR_ENV>\Scripts\activate
@@ -15,4 +15,4 @@ source <YOUR_ENV>\Scripts\activate
 pythom -m pip install -r requirements.txt
 
 python voice_assistant.py
-`
+```
